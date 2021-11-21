@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+.im-image {
+  width: 600px;
+  position: absolute;
+  top: 560px;
+  left:0px;
+}
+
+.im-image2 {
+  width: 650px;
+  position: absolute;
+  top: 710px;
+  left:20px;
+}
+
+.im-image3 {
+  width: 600px;
+  position: absolute;
+  top: 1040px;
+  left: -10px;
+}
+
+.im-image4 {
+  width: 1200px;
+  position: absolute;
+  top: 490px;
+  left: -250px;
+}
+
+.im-image5 {
+  width: 680px;
+  position: absolute;
+  top: 690px;
+  left: 270px;
+}
+
+.im-image6 {
+  width: 1100px;
+  position: absolute;
+  top: 830px;
+  left: -250px;
+}
+
+.im-image7 {
+  width: 500px;
+  position: absolute;
+  top: 920px;
+  left: 295px;
+}
+
+.im-image8 {
+  width: 800px;
+  position: absolute;
+  top: 560px;
+  left: -150px;
+}
+
+.im-image9 {
+  width: 650px;
+  position: absolute;
+  top: 800px;
+  left: 60px;
+}
+
+.im-image10 {
+  width: 700px;
+  position: absolute;
+  top: 615px;
+  left: -20px;
+}
+
+.im-image11 {
+  width: 800px;
+  position: absolute;
+  top: 500px;
+  left: -70px;
+}
+
+.im-image12 {
+  width: 900px;
+  position: absolute;
+  top: 620px;
+  left: -20px;
+}
+
+.im-image13 {
+  width: 700px;
+  position: absolute;
+  top: 790px;
+  left: 100px;
+}
+
+.im-gif {
+  width: 600px;
+  position: absolute;
+  top: 240px;
+  left:130px;
+}
